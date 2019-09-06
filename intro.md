@@ -34,3 +34,4 @@ If you are interested in getting more involved in the club feel free to let me k
 
 [Chatroom Link](https://gitter.im/QC-DS-AI/community)
 [Website](https://datascience-ai-qc.github.io/)
+[Book We are Using](https://jakevdp.github.io/PythonDataScienceHandbook/)
